@@ -52,14 +52,6 @@
   <a href="https://github.com/ismailkhan5y36-hub">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ismailkhan5y36-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
-
-  <br/><br/>
-
-  <!-- Streak Stats Card -->
-  <a href="https://github.com/ismailkhan5y36-hub">
-    <img src="https://streak-stats.demolab.com?user=ismailkhan5y36-hub&theme=tokyonight&hide_border=true" alt="Ismail's Streak" width="70%" />
-  </a>
-
 </div>
 
 ---
