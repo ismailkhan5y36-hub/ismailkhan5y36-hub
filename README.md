@@ -10,6 +10,9 @@
     <a href="https://github.com/ismailkhan5y36-hub">
       <img src="https://img.shields.io/badge/Daily-Consistency%20🔥-orange?style=flat-square" alt="Daily Consistency" />
     </a>
+    <a href="https://github.com/ismailkhan5y36-hub?tab=repositories">
+      <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B" alt="Language" />
+    </a>
   </p>
 
 </div>
@@ -37,24 +40,24 @@
 
 ---
 
-### 📊 GitHub Activity & Streak Dashboard
+### 📊 GitHub Activity & Stats Dashboard
 
 <div align="center">
 
-  <!-- Streak Stats Card -->
+  <!-- GitHub Overall Stats Card (Using Active Extended Service) -->
   <a href="https://github.com/ismailkhan5y36-hub">
-    <img src="https://streak-stats.demolab.com/?user=ismailkhan5y36-hub&theme=tokyonight&hide_border=true" alt="Ismail's Streak" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=ismailkhan5y36-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ismail's GitHub Stats" width="49%" />
   </a>
-  <!-- GitHub Overall Stats Card -->
+  <!-- Top Languages Card -->
   <a href="https://github.com/ismailkhan5y36-hub">
-    <img src="https://github-readme-stats.vercel.app/api?username=ismailkhan5y36-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ismail's GitHub Stats" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ismailkhan5y36-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
   </a>
 
   <br/><br/>
 
-  <!-- Top Languages Card -->
+  <!-- Streak Stats Card -->
   <a href="https://github.com/ismailkhan5y36-hub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailkhan5y36-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismailkhan5y36-hub&theme=tokyonight&hide_border=true" alt="Ismail's Streak" width="70%" />
   </a>
 
 </div>
